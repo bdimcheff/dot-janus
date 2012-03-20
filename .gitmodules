@@ -1,0 +1,3 @@
+[submodule "yankring.vim"]
+	path = yankring.vim
+	url = git://github.com/vim-scripts/YankRing.vim.git
