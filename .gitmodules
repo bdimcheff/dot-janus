@@ -1,3 +1,9 @@
 [submodule "yankring.vim"]
 	path = yankring.vim
 	url = git://github.com/vim-scripts/YankRing.vim.git
+[submodule "vim-trailing-whitespace.vim"]
+	path = vim-trailing-whitespace.vim
+	url = git://github.com/bronson/vim-trailing-whitespace.git
+[submodule "vim-thrift.vim"]
+	path = vim-thrift.vim
+	url = git://github.com/johnmorrow/vim-thrift.git
