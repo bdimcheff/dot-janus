@@ -7,3 +7,6 @@
 [submodule "vim-thrift.vim"]
 	path = vim-thrift.vim
 	url = git://github.com/johnmorrow/vim-thrift.git
+[submodule "vim-less.vim"]
+	path = vim-less.vim
+	url = https://github.com/groenewege/vim-less.git
